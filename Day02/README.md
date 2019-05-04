@@ -1,16 +1,16 @@
 # Day 02
 
-## 1
+## Technique de planification de projet et d'estimation d'un projet logiciel
 
-## 2
+## Les plans et le processus de planification d'un projet logiciel 
 
-## 3
+## Techniques de planification d'un projet logiciel
 
-## 4
+## Processus d'estimation
 
-## 5
+## Techniques d'estimation d'un projet logiciel (patrons COSMIC)
 
-## 6
+## Mesurer et contrôler les produits logiciels
 
-## 7
+## Présentation du gabarit de plan de projet de la IEEE 1058
 
