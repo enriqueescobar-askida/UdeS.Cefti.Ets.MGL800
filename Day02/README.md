@@ -14,3 +14,8 @@
 
 ## Présentation du gabarit de plan de projet de la IEEE 1058
 
+* Exemple d'un plan de gestion de projet complet
+
+* Gabarit du plan de projet style IEEE 1058
+
+* ISBSG
